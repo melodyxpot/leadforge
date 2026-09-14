@@ -36,8 +36,8 @@ NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=
 5. Install and run:
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000), create an account, then add a lead.
@@ -45,11 +45,11 @@ Open [http://localhost:3000](http://localhost:3000), create an account, then add
 ## Scripts
 
 ```bash
-npm run dev
-npm run typecheck
-npm run lint
-npm run test
-npm run build
+pnpm dev
+pnpm typecheck
+pnpm lint
+pnpm test
+pnpm build
 ```
 
 ## Shortcuts
